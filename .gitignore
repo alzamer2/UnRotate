@@ -99,3 +99,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.cache
+*.mpc
+ImageMagick/IMDisplay.exe
+ImageMagick/convert.exe
